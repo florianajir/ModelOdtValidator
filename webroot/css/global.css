@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+}
+table tr td{
+    vertical-align: middle;
+}
+.btn-group-action{
+    text-align: center;
+}
+.btn-group>.btn {
+    float: none;
+}

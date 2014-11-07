@@ -1,0 +1,9 @@
+1.0.01
+======
+- Modification : Prise en compte des variables nombre_annexes dans des les modèles
+- Modification : Prise en compte de la section Annexes dans des les modèles
+- Correction : Gestion des retours de fido avec des résultats multiples
+
+1.0
+======
+Sortie officielle du plugin CakePHP ModelOdtValidator (adapté pour Webdelib v4.2)

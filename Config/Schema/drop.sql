@@ -1,0 +1,10 @@
+DROP SEQUENCE modelsections_id_seq CASCADE ;
+DROP TABLE modelsections CASCADE;
+DROP SEQUENCE modelvalidations_id_seq CASCADE;
+DROP TABLE modelvalidations CASCADE;
+DROP SEQUENCE modelvariables_id_seq CASCADE;
+DROP TABLE modelvariables CASCADE;
+DROP SEQUENCE modeltypes_id_seq CASCADE;
+DROP TABLE modeltypes CASCADE;
+-- DROP SEQUENCE modeltemplates_id_seq CASCADE;
+-- DROP TABLE modeltemplates CASCADE;
